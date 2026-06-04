@@ -1,0 +1,19 @@
+Taulell de INTs
+
+Funcions:
+No repetir bomba
+Mostrar el taulell
+Seleccionar caselles
+Mostrar mode pirata
+
+1 taulell:
+0 no hi ha res
+-1 no hi ha res descobert
+1,2,3,4,5,6,7,8 numero de mines al voltant NO descobertes
+9,10,11,12,13,14,15,16 numero de mines al voltant -8 descobertes
+-2 mina
+-3 bandera
+CASELLES QUE SAP:
+-3,-1,9,10,11,12,13,14,15,16
+CASELLES QUE NO SAP
+-2,0,1,2,3,4,5,6,7,8
